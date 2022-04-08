@@ -1,8 +1,8 @@
-### This project has the object to improve my programming skills by building a Commando Line Interface (CLI).
+### This project has the objective to improve my programming skills by building a Command Line Interface (CLI).
 
-#### To run this aplication you need to isntall some lybraries. 
+#### To run this aplication you need to install some libraries. 
 
-1. First you need to install Python 3.x version with pip
+1. First you need to install Python 3.x version
 
 ---
 2. Second you need to install Pillow library
