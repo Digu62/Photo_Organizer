@@ -22,4 +22,4 @@ pyinstaller -w -F photo-organizer.py
 
 ---
 
-Obs: This code was based on a tutorial from "Código Fonte TV" and improved to my personal use. You can see the tutorial too in the [here](https://www.youtube.com/watch?v=L8KFB0VyEwo&t=146s&ab_channel=C%C3%B3digoFonteTV)
+Obs: This code was based on a tutorial from "Código Fonte TV" and improved to my personal use. You can see the tutorial [here](https://www.youtube.com/watch?v=L8KFB0VyEwo&t=146s&ab_channel=C%C3%B3digoFonteTV)
