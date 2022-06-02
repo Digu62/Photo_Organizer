@@ -18,7 +18,7 @@ pip install pyinstaller
 
 4. Finnaly you need to create the executable
 
-pyinstaller -w -F photo-organizer.py
+pyinstaller -w -F name.py
 
 ---
 
